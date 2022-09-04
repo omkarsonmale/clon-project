@@ -1,4 +1,4 @@
-/* * {
+* {
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
 }
@@ -84,4 +84,4 @@ html, body {
 
 .login-button:focus {
     background-color: hsla(201, 100%, 50%, 0.5)
-} */
+}
